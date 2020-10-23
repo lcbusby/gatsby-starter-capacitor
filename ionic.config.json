@@ -1,5 +1,7 @@
 {
   "name": "Gatsby Capacitor Starter",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react"
 }
