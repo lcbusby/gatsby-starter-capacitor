@@ -1,8 +1,8 @@
 {
-  "appId": "com.example.gatsbycapacitor",
+  "appId": "com.lcbusby",
   "appName": "gatsby-starter-capacitor",
   "bundledWebRuntime": false,
-  "npmClient": "npm",
+  "npmClient": "yarn",
   "webDir": "public",
   "plugins": {
     "SplashScreen": {
